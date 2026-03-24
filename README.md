@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Mainul Islam Tasin 👋
 
-<!--
-**Mainul009/Mainul009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computing Systems Student @ Ulster University (2nd Year)
+📍 High Wycombe, England, UK
+💻 Aspiring Software Developer | Open to Internships & Placements
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+**Languages:** HTML | Python | Java | PHP | SQL | R | C++
+
+**Frameworks & Tools:** Laravel | RStudio | Git | Linux | Wireshark
+
+**Areas of Interest:** Web Development | Data Analysis | Cybersecurity | Agile/Scrum
+
+---
+
+## 📂 Projects
+
+- 🏠 [Homiee](https://github.com/Mainul009/Homiee) — Group web development project built with HTML (Ulster University, Group D)
+
+---
+
+## 💼 Experience
+
+- 🎨 **Freelance Graphic Designer** @ Astra Plays *(Jan 2021 – Sep 2024)*
+- 🍔 **Crew Member** @ McDonald's *(Oct 2024 – Jan 2026)*
+
+---
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mainul-islam-tasin-849072361)
+- 📧 mainultasin07@gmail.com
+
+---
+
+*"Learning every day, building for tomorrow."*
