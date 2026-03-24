@@ -19,6 +19,7 @@
 ## 📂 Projects
 
 - 🏠 [Homiee](https://github.com/Mainul009/Homiee) — Group web development project built with HTML (Ulster University, Group D)
+- 🔒 [Authentication](https://github.com/Mainul009/authentication) — Laravel-based user authentication system with registration, login & protected routes
 
 ---
 
