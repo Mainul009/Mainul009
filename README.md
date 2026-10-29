@@ -28,7 +28,7 @@
 
 ## 🎓 Education
 
-**BSc Computing Systems** — Ulster University *(2nd Year, ongoing)*
+**BSc Computing Systems** — Ulster University *(FINAL Year, ongoing)*
 
 Key modules: Programming, Cybersecurity, Network Security, Data Analysis, Agile Project Management
 
