@@ -23,12 +23,6 @@
 - 🔬 [Packet Analyser Visualiser](https://github.com/Mainul009/packet-analyser-visualiser) — Python tool for real-time network packet capture and visualisation using Scapy & Matplotlib. Features anomaly detection, protocol distribution charts, and traffic-over-time graphs
 - 📊 [R Data Dashboard](https://github.com/Mainul009/r-data-dashboard) — Interactive Shiny dashboard built in R for exploratory data analysis, dynamic ggplot2 visualisations, and statistical summaries
 
----
-
-## 💼 Experience
-
-- 🎨 **Freelance Graphic Designer** @ Astra Plays *(Jan 2021 – Sep 2024)*
-- 🍔 **Crew Member** @ McDonald's *(Oct 2024 – Jan 2026)*
 
 ---
 
